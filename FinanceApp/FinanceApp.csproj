@@ -15,4 +15,12 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Mohibullah Bukhari\source\repos\FinanceApp\FinanceApp\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Mohibullah Bukhari\source\repos\FinanceApp\FinanceApp\.editorconfig" />
+  </ItemGroup>
+
 </Project>
